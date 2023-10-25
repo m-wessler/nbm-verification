@@ -43,7 +43,6 @@ if __name__ == '__main__':
     hh = int(input('Desired init hour int(HH)? '))
     fhr = int(input('Desired forecast hour/lead time int(HH)?'))
 
-
     bucket_dir = f'blend.{yyyymmdd}/{hh}/{nbm_set}/'
 
     grib_file = f'{bucket_dir}blend.t{hh:02d}z.'+\
