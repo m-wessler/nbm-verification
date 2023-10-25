@@ -1,6 +1,3 @@
-!pip install boto3
-!pip install pygrib
-
 import os, boto3, pygrib
 
 import numpy as np
