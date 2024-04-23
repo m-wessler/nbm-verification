@@ -150,7 +150,7 @@ aws_bucket_nbm = 'noaa-nbm-grib2-pds'
 aws_bucket_urma = 'noaa-urma-pds'
 
 # Where to place the grib files (subdirs can be added in local) (not used)
-# output_dir = './'
+output_dir = '/nas/stid/data/nbm-verification/'
 
 # Which grib variables do each element correlate with
 nbm_vars = {'qpf':'APCP',
@@ -199,10 +199,11 @@ nbm_request_args = {
 # FUNCTIONS AND METHODS (GENERAL)                                             #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
-def mkdir_p(path):
+def mkdir_p(check_dir):
     from pathlib import Path
-    Path(path).mkdir(parents=True, exist_ok=True)
-    return path
+    check_dir = output_dir + check_dir
+    Path(check_dir).mkdir(parents=True, exist_ok=True)
+    return check_dir
 
 def cwa_list(input_region):
 
@@ -256,20 +257,19 @@ def fetch_obs_from_API(valid_datetime, cwa='', output_type='csv',
     element_label = req['element'] if req['element'] != 'qpf' else \
                         'qpe' + f'{req["interval"]:02d}'
 
-    output_dir = mkdir_p(f'./obs_{output_type}/')
 
-    output_file = output_dir + f'obs.{element_label}.{req["ob_stat"]}' +\
-                    f'.{valid_datetime}.{cwa_filename}.{output_type}'
+    output_file = mkdir_p(f'obs_{output_type}/') +\
+        f'obs.{element_label}.{req["ob_stat"]}' +\
+        f'.{valid_datetime}.{cwa_filename}.{output_type}'
 
     if os.path.isfile(output_file) & use_saved:
         # print(f'Output file exists for:{iter_item}')
         return output_file
 
     else:
-        json_dir = mkdir_p('./obs_json/')
-
-        json_file = json_dir + f'obs.{element_label}.{req["ob_stat"]}' +\
-                        f'.{valid_datetime}.{cwa_filename}.json'
+        json_file = mkdir_p('obs_json/') +\
+            f'obs.{element_label}.{req["ob_stat"]}' +\
+            f'.{valid_datetime}.{cwa_filename}.json'
 
         if os.path.isfile(json_file) & use_saved:
             # print(f'Polling archived JSON for: {iter_item}')
@@ -292,8 +292,8 @@ def fetch_obs_from_API(valid_datetime, cwa='', output_type='csv',
                                 else f'&vars={req["vars_query"]}'),
                 'stats_query':f'&type={req["ob_stat"]}',
                 'timezone_query':'&obtimezone=utc',
-                'api_extras':'&fields=name,status,latitude,longitude,elevation'+\
-                             '&units=temp|f&complete=True'}
+                'api_extras':'&units=temp|f&complete=True'}
+                    #'&fields=name,status,latitude,longitude,elevation'
 
             api_query = req['api'] + ''.join(
                 [api_query_args[k] for k in api_query_args.keys()])
@@ -358,7 +358,7 @@ def ll_to_index(loclat, loclon, datalats, datalons):
     latlon_idx = np.unravel_index(latlon_idx_flat, datalons.shape)
     return latlon_idx
 
-def fetch_NBMgrib_from_AWS(iter_item, save_dir='./nbm_grib2/', **req):
+def fetch_NBMgrib_from_AWS(iter_item, save_dir='nbm_grib2/', **req):
 
     from botocore import UNSIGNED
     from botocore.client import Config
@@ -372,7 +372,7 @@ def fetch_NBMgrib_from_AWS(iter_item, save_dir='./nbm_grib2/', **req):
     element_label = req['element'] if req['element'] != 'qpf' else \
                     req['element'] + f'{req["interval"]:02d}'
 
-    mkdir_p(save_dir)
+    save_dir = mkdir_p(save_dir)
 
     output_file = (save_dir +
         f'{yyyymmdd}.t{hh}z.fhr{req["lead_time_days"]*24:03d}.{element_label}.grib2')
@@ -486,11 +486,11 @@ def fetch_NBMgrib_from_AWS(iter_item, save_dir='./nbm_grib2/', **req):
 
         client.close()
 
-def fetch_URMAgrib_from_AWS(iter_item, save_dir='./urma_grib2/', **req):
+def fetch_URMAgrib_from_AWS(iter_item, save_dir='urma_grib2/', **req):
     from botocore import UNSIGNED
     from botocore.client import Config
 
-    mkdir_p(save_dir)
+    save_dir = mkdir_p(save_dir)
     yyyymmdd = iter_item
 
     if req["element"] == 'maxt':
@@ -615,7 +615,7 @@ if __name__ == "__main__":
     searchstring = (f'*{csv_element}*{region_selection}*.csv'
         if region_selection != 'CWA' else f'*{csv_element}*{cwa_selection}*.csv')
 
-    filelist = np.array(glob(os.path.join('./obs_csv/', searchstring)))
+    filelist = np.array(glob(os.path.join(output_dir + 'obs_csv/', searchstring)))
 
     datecheck = np.array(
         [datetime.strptime(f.split('.')[-3], "%Y%m%d%H%M") for f in filelist])
@@ -771,7 +771,7 @@ if __name__ == "__main__":
         element_name = f'{element}{interval_selection:02d}' if element == 'qpf' \
                             else f'{element}'
 
-        nbm_file = f'./nbm_grib2/{datestr}.t{init_hour:02d}z' +\
+        nbm_file = output_dir + f'nbm_grib2/{datestr}.t{init_hour:02d}z' +\
                 f'.fhr{nbm_request_args["lead_time_days"]*24:03d}' +\
                 f'.{element_name}.grib2'
 
@@ -915,7 +915,7 @@ if __name__ == "__main__":
             baddata = False
             for urma_datetime in valid_set:
 
-                urma_file = f'./urma_grib2/urma2p5.' +\
+                urma_file = output_dir + f'urma_grib2/urma2p5.' +\
                     f'{(urma_datetime).strftime("%Y%m%d")}.'+\
                     f't{urma_datetime.hour:02d}z.{urma_element}.grib2'
 
@@ -988,7 +988,7 @@ if __name__ == "__main__":
         # thresh_text, thresh = t
         thresh_text = k
         thresh = float(k.split('_')[-1].replace('p', '.').replace('m', '-'))
-        thresh = thresh*25.4 if element == 'qpe' else thresh
+        thresh = thresh*25.4 if element == 'qpf' else thresh
 
         if 'ge' in thresh_text:
             y_test_ob = np.where(df['OBS'] >=  thresh, 1, 0) #ge vs gt
@@ -1153,13 +1153,17 @@ if __name__ == "__main__":
 
         # plt.show()
 
-        plot_dir = f"./{region_selection}/{cwa_selection}/{season}/" +\
-        f"{element}{interval_selection}/f{lead_days_selection*24:03d}/"
+        plot_dir = f"{element}{interval_selection if interval_selection != False else ''}/" +\
+            f"{region_selection if region_selection != 'CWA' else cwa_selection}/" +\
+            f"{season}/f{lead_days_selection*24:03d}/"
 
         plot_fname = f"reliability_{thresh_text.replace(' ', '_').replace('.','p')}.jpg"
+        output_plotfile = mkdir_p(plot_dir.upper()) + plot_fname.lower()
 
-        plt.savefig(mkdir_p(plot_dir.upper()) + plot_fname.lower(),
-                    bbox_inches='tight', dpi=fig.dpi)
+        print(f'Writing: {output_plotfile}')
+
+        plt.savefig(output_plotfile, bbox_inches='tight', dpi=fig.dpi)
+        
         plt.close()
 
 
