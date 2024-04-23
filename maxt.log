@@ -1,0 +1,859 @@
+Process Pool Size: 20
+Polling API for: 202301180600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202301171200&end=202301180600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202301180600, HTTP:None, #:0
+Polling API for: 202301190600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202301181200&end=202301190600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202301190600, HTTP:None, #:0
+Polling API for: 202301200600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202301191200&end=202301200600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202301200600, HTTP:None, #:0
+Polling API for: 202301210600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202301201200&end=202301210600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202301210600, HTTP:None, #:0
+Polling API for: 202301220600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202301211200&end=202301220600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202301220600, HTTP:None, #:0
+Polling API for: 202301230600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202301221200&end=202301230600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202301230600, HTTP:None, #:0
+Polling API for: 202301240600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202301231200&end=202301240600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202301240600, HTTP:None, #:0
+Polling API for: 202301250600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202301241200&end=202301250600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202301250600, HTTP:None, #:0
+Polling API for: 202301260600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202301251200&end=202301260600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202301260600, HTTP:None, #:0
+Polling API for: 202301270600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202301261200&end=202301270600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202301270600, HTTP:None, #:0
+Polling API for: 202301280600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202301271200&end=202301280600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202301280600, HTTP:None, #:0
+Polling API for: 202301290600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202301281200&end=202301290600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202301290600, HTTP:None, #:0
+Polling API for: 202301300600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202301291200&end=202301300600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202301300600, HTTP:None, #:0
+Polling API for: 202301310600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202301301200&end=202301310600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202301310600, HTTP:None, #:0
+Polling API for: 202302010600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202301311200&end=202302010600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202302010600, HTTP:None, #:0
+Polling API for: 202302020600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202302011200&end=202302020600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202302020600, HTTP:None, #:0
+Polling API for: 202302030600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202302021200&end=202302030600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202302030600, HTTP:None, #:0
+Polling API for: 202302040600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202302031200&end=202302040600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202302040600, HTTP:None, #:0
+Polling API for: 202302050600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202302041200&end=202302050600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202302050600, HTTP:None, #:0
+Polling API for: 202302060600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202302051200&end=202302060600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202302060600, HTTP:None, #:0
+Polling API for: 202302070600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202302061200&end=202302070600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202302070600, HTTP:None, #:0
+Polling API for: 202302080600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202302071200&end=202302080600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202302080600, HTTP:None, #:0
+Polling API for: 202302090600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202302081200&end=202302090600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202302090600, HTTP:None, #:0
+Polling API for: 202302100600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202302091200&end=202302100600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202302100600, HTTP:None, #:0
+Polling API for: 202302110600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202302101200&end=202302110600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202302110600, HTTP:None, #:0
+Polling API for: 202302120600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202302111200&end=202302120600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202302120600, HTTP:None, #:0
+Polling API for: 202302130600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202302121200&end=202302130600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202302130600, HTTP:None, #:0
+Polling API for: 202302140600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202302131200&end=202302140600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202302140600, HTTP:None, #:0
+Polling API for: 202302150600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202302141200&end=202302150600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202302150600, HTTP:None, #:0
+Polling API for: 202302160600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202302151200&end=202302160600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202302160600, HTTP:None, #:0
+Polling API for: 202302170600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202302161200&end=202302170600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202302170600, HTTP:None, #:0
+Polling API for: 202302180600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202302171200&end=202302180600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202302180600, HTTP:None, #:0
+Polling API for: 202302190600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202302181200&end=202302190600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202302190600, HTTP:None, #:0
+Polling API for: 202302200600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202302191200&end=202302200600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202302200600, HTTP:None, #:0
+Polling API for: 202302210600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202302201200&end=202302210600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202302210600, HTTP:None, #:0
+Polling API for: 202302220600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202302211200&end=202302220600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202302220600, HTTP:None, #:0
+Polling API for: 202302230600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202302221200&end=202302230600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202302230600, HTTP:None, #:0
+Polling API for: 202302240600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202302231200&end=202302240600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202302240600, HTTP:None, #:0
+Polling API for: 202302250600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202302241200&end=202302250600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202302250600, HTTP:None, #:0
+Polling API for: 202302260600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202302251200&end=202302260600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202302260600, HTTP:None, #:0
+Polling API for: 202302270600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202302261200&end=202302270600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202302270600, HTTP:None, #:0
+Polling API for: 202302280600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202302271200&end=202302280600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202302280600, HTTP:None, #:0
+Polling API for: 202303010600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202302281200&end=202303010600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202303010600, HTTP:None, #:0
+Polling API for: 202303020600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202303011200&end=202303020600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202303020600, HTTP:None, #:0
+Polling API for: 202303030600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202303021200&end=202303030600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202303030600, HTTP:None, #:0
+Polling API for: 202303040600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202303031200&end=202303040600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202303040600, HTTP:None, #:0
+Polling API for: 202303050600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202303041200&end=202303050600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202303050600, HTTP:None, #:0
+Polling API for: 202303060600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202303051200&end=202303060600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202303060600, HTTP:None, #:0
+Polling API for: 202303070600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202303061200&end=202303070600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202303070600, HTTP:None, #:0
+Polling API for: 202303080600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202303071200&end=202303080600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202303080600, HTTP:None, #:0
+Polling API for: 202303090600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202303081200&end=202303090600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202303090600, HTTP:None, #:0
+Polling API for: 202303100600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202303091200&end=202303100600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202303100600, HTTP:None, #:0
+Polling API for: 202303110600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202303101200&end=202303110600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202303110600, HTTP:None, #:0
+Polling API for: 202303120600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202303111200&end=202303120600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202303120600, HTTP:None, #:0
+Polling API for: 202303130600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202303121200&end=202303130600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202303130600, HTTP:None, #:0
+Polling API for: 202303140600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202303131200&end=202303140600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202303140600, HTTP:None, #:0
+Polling API for: 202303150600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202303141200&end=202303150600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202303150600, HTTP:None, #:0
+Polling API for: 202303160600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202303151200&end=202303160600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202303160600, HTTP:None, #:0
+Polling API for: 202303170600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202303161200&end=202303170600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202303170600, HTTP:None, #:0
+Polling API for: 202303180600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202303171200&end=202303180600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202303180600, HTTP:None, #:0
+Polling API for: 202303190600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202303181200&end=202303190600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202303190600, HTTP:None, #:0
+Polling API for: 202303200600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202303191200&end=202303200600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202303200600, HTTP:None, #:0
+Polling API for: 202303210600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202303201200&end=202303210600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202303210600, HTTP:None, #:0
+Polling API for: 202303220600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202303211200&end=202303220600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202303220600, HTTP:None, #:0
+Polling API for: 202303230600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202303221200&end=202303230600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202303230600, HTTP:None, #:0
+Polling API for: 202303240600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202303231200&end=202303240600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202303240600, HTTP:None, #:0
+Polling API for: 202303250600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202303241200&end=202303250600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202303250600, HTTP:None, #:0
+Polling API for: 202303260600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202303251200&end=202303260600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202303260600, HTTP:None, #:0
+Polling API for: 202303270600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202303261200&end=202303270600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202303270600, HTTP:None, #:0
+Polling API for: 202303280600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202303271200&end=202303280600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202303280600, HTTP:None, #:0
+Polling API for: 202303290600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202303281200&end=202303290600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202303290600, HTTP:None, #:0
+Polling API for: 202303300600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202303291200&end=202303300600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202303300600, HTTP:None, #:0
+Polling API for: 202303310600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202303301200&end=202303310600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202303310600, HTTP:None, #:0
+Polling API for: 202304010600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202303311200&end=202304010600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202304010600, HTTP:None, #:0
+Polling API for: 202304020600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202304011200&end=202304020600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202304020600, HTTP:None, #:0
+Polling API for: 202304030600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202304021200&end=202304030600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202304030600, HTTP:None, #:0
+Polling API for: 202304040600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202304031200&end=202304040600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202304040600, HTTP:None, #:0
+Polling API for: 202304050600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202304041200&end=202304050600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202304050600, HTTP:None, #:0
+Polling API for: 202304060600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202304051200&end=202304060600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202304060600, HTTP:None, #:0
+Polling API for: 202304070600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202304061200&end=202304070600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202304070600, HTTP:None, #:0
+Polling API for: 202304080600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202304071200&end=202304080600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202304080600, HTTP:None, #:0
+Polling API for: 202304090600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202304081200&end=202304090600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202304090600, HTTP:None, #:0
+Polling API for: 202304100600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202304091200&end=202304100600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202304100600, HTTP:None, #:0
+Polling API for: 202304110600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202304101200&end=202304110600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202304110600, HTTP:None, #:0
+Polling API for: 202304120600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202304111200&end=202304120600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202304120600, HTTP:None, #:0
+Polling API for: 202304130600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202304121200&end=202304130600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202304130600, HTTP:None, #:0
+Polling API for: 202304140600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202304131200&end=202304140600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202304140600, HTTP:None, #:0
+Polling API for: 202304150600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202304141200&end=202304150600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202304150600, HTTP:None, #:0
+Polling API for: 202304160600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202304151200&end=202304160600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202304160600, HTTP:None, #:0
+Polling API for: 202304170600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202304161200&end=202304170600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202304170600, HTTP:None, #:0
+Polling API for: 202304180600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202304171200&end=202304180600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202304180600, HTTP:None, #:0
+Polling API for: 202304190600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202304181200&end=202304190600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202304190600, HTTP:None, #:0
+Polling API for: 202304200600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202304191200&end=202304200600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202304200600, HTTP:None, #:0
+Polling API for: 202304210600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202304201200&end=202304210600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202304210600, HTTP:None, #:0
+Polling API for: 202304220600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202304211200&end=202304220600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202304220600, HTTP:None, #:0
+Polling API for: 202304230600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202304221200&end=202304230600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202304230600, HTTP:None, #:0
+Polling API for: 202304240600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202304231200&end=202304240600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202304240600, HTTP:None, #:0
+Polling API for: 202304250600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202304241200&end=202304250600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202304250600, HTTP:None, #:0
+Polling API for: 202304260600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202304251200&end=202304260600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202304260600, HTTP:None, #:0
+Polling API for: 202304270600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202304261200&end=202304270600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202304270600, HTTP:None, #:0
+Polling API for: 202304280600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202304271200&end=202304280600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202304280600, HTTP:None, #:0
+Polling API for: 202304290600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202304281200&end=202304290600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202304290600, HTTP:None, #:0
+Polling API for: 202304300600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202304291200&end=202304300600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202304300600, HTTP:None, #:0
+Polling API for: 202305010600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202304301200&end=202305010600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202305010600, HTTP:None, #:0
+Polling API for: 202305020600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202305011200&end=202305020600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202305020600, HTTP:None, #:0
+Polling API for: 202305030600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202305021200&end=202305030600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202305030600, HTTP:None, #:0
+Polling API for: 202305040600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202305031200&end=202305040600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202305040600, HTTP:None, #:0
+Polling API for: 202305050600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202305041200&end=202305050600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202305050600, HTTP:None, #:0
+Polling API for: 202305060600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202305051200&end=202305060600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202305060600, HTTP:None, #:0
+Polling API for: 202305070600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202305061200&end=202305070600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202305070600, HTTP:None, #:0
+Polling API for: 202305080600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202305071200&end=202305080600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202305080600, HTTP:None, #:0
+Polling API for: 202305090600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202305081200&end=202305090600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202305090600, HTTP:None, #:0
+Polling API for: 202305100600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202305091200&end=202305100600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202305100600, HTTP:None, #:0
+Polling API for: 202305110600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202305101200&end=202305110600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202305110600, HTTP:None, #:0
+Polling API for: 202305120600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202305111200&end=202305120600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202305120600, HTTP:None, #:0
+Polling API for: 202305130600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202305121200&end=202305130600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202305130600, HTTP:None, #:0
+Polling API for: 202305140600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202305131200&end=202305140600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202305140600, HTTP:None, #:0
+Polling API for: 202305150600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202305141200&end=202305150600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202305150600, HTTP:None, #:0
+Polling API for: 202305160600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202305151200&end=202305160600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202305160600, HTTP:None, #:0
+Polling API for: 202305170600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202305161200&end=202305170600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202305170600, HTTP:None, #:0
+Polling API for: 202305180600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202305171200&end=202305180600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202305180600, HTTP:None, #:0
+Polling API for: 202305190600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202305181200&end=202305190600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202305190600, HTTP:None, #:0
+Polling API for: 202305200600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202305191200&end=202305200600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202305200600, HTTP:None, #:0
+Polling API for: 202305210600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202305201200&end=202305210600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202305210600, HTTP:None, #:0
+Polling API for: 202305220600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202305211200&end=202305220600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202305220600, HTTP:None, #:0
+Polling API for: 202305230600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202305221200&end=202305230600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202305230600, HTTP:None, #:0
+Polling API for: 202305240600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202305231200&end=202305240600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202305240600, HTTP:None, #:0
+Polling API for: 202305250600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202305241200&end=202305250600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202305250600, HTTP:None, #:0
+Polling API for: 202305260600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202305251200&end=202305260600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202305260600, HTTP:None, #:0
+Polling API for: 202305270600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202305261200&end=202305270600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202305270600, HTTP:None, #:0
+Polling API for: 202305280600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202305271200&end=202305280600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202305280600, HTTP:None, #:0
+Polling API for: 202305290600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202305281200&end=202305290600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202305290600, HTTP:None, #:0
+Polling API for: 202305300600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202305291200&end=202305300600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202305300600, HTTP:None, #:0
+Polling API for: 202305310600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202305301200&end=202305310600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202305310600, HTTP:None, #:0
+Polling API for: 202306010600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202305311200&end=202306010600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202306010600, HTTP:None, #:0
+Polling API for: 202306020600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202306011200&end=202306020600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202306020600, HTTP:None, #:0
+Polling API for: 202306030600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202306021200&end=202306030600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202306030600, HTTP:None, #:0
+Polling API for: 202306040600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202306031200&end=202306040600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202306040600, HTTP:None, #:0
+Polling API for: 202306050600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202306041200&end=202306050600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202306050600, HTTP:None, #:0
+Polling API for: 202306060600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202306051200&end=202306060600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202306060600, HTTP:None, #:0
+Polling API for: 202306070600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202306061200&end=202306070600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202306070600, HTTP:None, #:0
+Polling API for: 202306080600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202306071200&end=202306080600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202306080600, HTTP:None, #:0
+Polling API for: 202306090600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202306081200&end=202306090600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202306090600, HTTP:None, #:0
+Polling API for: 202306100600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202306091200&end=202306100600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202306100600, HTTP:None, #:0
+Polling API for: 202306110600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202306101200&end=202306110600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202306110600, HTTP:None, #:0
+Polling API for: 202306120600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202306111200&end=202306120600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202306120600, HTTP:None, #:0
+Polling API for: 202306130600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202306121200&end=202306130600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202306130600, HTTP:None, #:0
+Polling API for: 202306140600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202306131200&end=202306140600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202306140600, HTTP:None, #:0
+Polling API for: 202306150600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202306141200&end=202306150600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202306150600, HTTP:None, #:0
+Polling API for: 202306160600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202306151200&end=202306160600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202306160600, HTTP:None, #:0
+Polling API for: 202306170600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202306161200&end=202306170600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202306170600, HTTP:None, #:0
+Polling API for: 202306180600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202306171200&end=202306180600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202306180600, HTTP:None, #:0
+Polling API for: 202306190600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202306181200&end=202306190600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202306190600, HTTP:None, #:0
+Polling API for: 202306200600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202306191200&end=202306200600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202306200600, HTTP:None, #:0
+Polling API for: 202306210600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202306201200&end=202306210600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202306210600, HTTP:None, #:0
+Polling API for: 202306220600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202306211200&end=202306220600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202306220600, HTTP:None, #:0
+Polling API for: 202306230600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202306221200&end=202306230600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202306230600, HTTP:None, #:0
+Polling API for: 202306240600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202306231200&end=202306240600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202306240600, HTTP:None, #:0
+Polling API for: 202306250600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202306241200&end=202306250600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202306250600, HTTP:None, #:0
+Polling API for: 202306260600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202306251200&end=202306260600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202306260600, HTTP:None, #:0
+Polling API for: 202306270600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202306261200&end=202306270600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202306270600, HTTP:None, #:0
+Polling API for: 202306280600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202306271200&end=202306280600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202306280600, HTTP:None, #:0
+Polling API for: 202306290600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202306281200&end=202306290600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202306290600, HTTP:None, #:0
+Polling API for: 202306300600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202306291200&end=202306300600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202306300600, HTTP:None, #:0
+Polling API for: 202307010600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202306301200&end=202307010600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202307010600, HTTP:None, #:0
+Polling API for: 202307020600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202307011200&end=202307020600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202307020600, HTTP:None, #:0
+Polling API for: 202307030600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202307021200&end=202307030600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202307030600, HTTP:None, #:0
+Polling API for: 202307040600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202307031200&end=202307040600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202307040600, HTTP:None, #:0
+Polling API for: 202307050600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202307041200&end=202307050600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202307050600, HTTP:None, #:0
+Polling API for: 202307060600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202307051200&end=202307060600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202307060600, HTTP:None, #:0
+Polling API for: 202307070600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202307061200&end=202307070600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202307070600, HTTP:None, #:0
+Polling API for: 202307080600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202307071200&end=202307080600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202307080600, HTTP:None, #:0
+Polling API for: 202307090600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202307081200&end=202307090600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202307090600, HTTP:None, #:0
+Polling API for: 202307100600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202307091200&end=202307100600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202307100600, HTTP:None, #:0
+Polling API for: 202307110600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202307101200&end=202307110600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202307110600, HTTP:None, #:0
+Polling API for: 202307120600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202307111200&end=202307120600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202307120600, HTTP:None, #:0
+Polling API for: 202307130600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202307121200&end=202307130600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202307130600, HTTP:None, #:0
+Polling API for: 202307140600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202307131200&end=202307140600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202307140600, HTTP:None, #:0
+Polling API for: 202307150600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202307141200&end=202307150600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202307150600, HTTP:None, #:0
+Polling API for: 202307160600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202307151200&end=202307160600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202307160600, HTTP:None, #:0
+Polling API for: 202307170600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202307161200&end=202307170600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202307170600, HTTP:None, #:0
+Polling API for: 202307180600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202307171200&end=202307180600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202307180600, HTTP:None, #:0
+Polling API for: 202307190600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202307181200&end=202307190600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202307190600, HTTP:None, #:0
+Polling API for: 202307200600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202307191200&end=202307200600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202307200600, HTTP:None, #:0
+Polling API for: 202307210600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202307201200&end=202307210600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202307210600, HTTP:None, #:0
+Polling API for: 202307220600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202307211200&end=202307220600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202307220600, HTTP:None, #:0
+Polling API for: 202307230600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202307221200&end=202307230600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202307230600, HTTP:None, #:0
+Polling API for: 202307240600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202307231200&end=202307240600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202307240600, HTTP:None, #:0
+Polling API for: 202307250600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202307241200&end=202307250600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202307250600, HTTP:None, #:0
+Polling API for: 202307260600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202307251200&end=202307260600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202307260600, HTTP:None, #:0
+Polling API for: 202307270600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202307261200&end=202307270600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202307270600, HTTP:None, #:0
+Polling API for: 202307280600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202307271200&end=202307280600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202307280600, HTTP:None, #:0
+Polling API for: 202307290600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202307281200&end=202307290600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202307290600, HTTP:None, #:0
+Polling API for: 202307300600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202307291200&end=202307300600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202307300600, HTTP:None, #:0
+Polling API for: 202307310600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202307301200&end=202307310600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202307310600, HTTP:None, #:0
+Polling API for: 202308010600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202307311200&end=202308010600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202308010600, HTTP:None, #:0
+Polling API for: 202308020600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202308011200&end=202308020600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202308020600, HTTP:None, #:0
+Polling API for: 202308030600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202308021200&end=202308030600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202308030600, HTTP:None, #:0
+Polling API for: 202308040600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202308031200&end=202308040600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202308040600, HTTP:None, #:0
+Polling API for: 202308050600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202308041200&end=202308050600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202308050600, HTTP:None, #:0
+Polling API for: 202308060600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202308051200&end=202308060600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202308060600, HTTP:None, #:0
+Polling API for: 202308070600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202308061200&end=202308070600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202308070600, HTTP:None, #:0
+Polling API for: 202308080600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202308071200&end=202308080600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202308080600, HTTP:None, #:0
+Polling API for: 202308090600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202308081200&end=202308090600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202308090600, HTTP:None, #:0
+Polling API for: 202308100600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202308091200&end=202308100600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202308100600, HTTP:None, #:0
+Polling API for: 202308110600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202308101200&end=202308110600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202308110600, HTTP:None, #:0
+Polling API for: 202308120600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202308111200&end=202308120600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202308120600, HTTP:None, #:0
+Polling API for: 202308130600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202308121200&end=202308130600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202308130600, HTTP:None, #:0
+Polling API for: 202308140600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202308131200&end=202308140600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202308140600, HTTP:None, #:0
+Polling API for: 202308150600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202308141200&end=202308150600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202308150600, HTTP:None, #:0
+Polling API for: 202308160600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202308151200&end=202308160600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202308160600, HTTP:None, #:0
+Polling API for: 202308170600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202308161200&end=202308170600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202308170600, HTTP:None, #:0
+Polling API for: 202308180600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202308171200&end=202308180600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202308180600, HTTP:None, #:0
+Polling API for: 202308190600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202308181200&end=202308190600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202308190600, HTTP:None, #:0
+Polling API for: 202308200600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202308191200&end=202308200600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202308200600, HTTP:None, #:0
+Polling API for: 202308210600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202308201200&end=202308210600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202308210600, HTTP:None, #:0
+Polling API for: 202308220600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202308211200&end=202308220600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202308220600, HTTP:None, #:0
+Polling API for: 202308230600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202308221200&end=202308230600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202308230600, HTTP:None, #:0
+Polling API for: 202308240600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202308231200&end=202308240600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202308240600, HTTP:None, #:0
+Polling API for: 202308250600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202308241200&end=202308250600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202308250600, HTTP:None, #:0
+Polling API for: 202308260600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202308251200&end=202308260600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202308260600, HTTP:None, #:0
+Polling API for: 202308270600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202308261200&end=202308270600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202308270600, HTTP:None, #:0
+Polling API for: 202308280600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202308271200&end=202308280600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202308280600, HTTP:None, #:0
+Polling API for: 202308290600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202308281200&end=202308290600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202308290600, HTTP:None, #:0
+Polling API for: 202308300600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202308291200&end=202308300600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202308300600, HTTP:None, #:0
+Polling API for: 202308310600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202308301200&end=202308310600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202308310600, HTTP:None, #:0
+Polling API for: 202309010600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202308311200&end=202309010600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202309010600, HTTP:None, #:0
+Polling API for: 202309020600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202309011200&end=202309020600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202309020600, HTTP:None, #:0
+Polling API for: 202309030600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202309021200&end=202309030600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202309030600, HTTP:None, #:0
+Polling API for: 202309040600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202309031200&end=202309040600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202309040600, HTTP:None, #:0
+Polling API for: 202309050600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202309041200&end=202309050600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202309050600, HTTP:None, #:0
+Polling API for: 202309060600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202309051200&end=202309060600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202309060600, HTTP:None, #:0
+Polling API for: 202309070600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202309061200&end=202309070600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202309070600, HTTP:None, #:0
+Polling API for: 202309080600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202309071200&end=202309080600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202309080600, HTTP:None, #:0
+Polling API for: 202309090600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202309081200&end=202309090600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202309090600, HTTP:None, #:0
+Polling API for: 202309100600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202309091200&end=202309100600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202309100600, HTTP:None, #:0
+Polling API for: 202309110600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202309101200&end=202309110600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202309110600, HTTP:None, #:0
+Polling API for: 202309120600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202309111200&end=202309120600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202309120600, HTTP:None, #:0
+Polling API for: 202309130600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202309121200&end=202309130600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202309130600, HTTP:None, #:0
+Polling API for: 202309140600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202309131200&end=202309140600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202309140600, HTTP:None, #:0
+Polling API for: 202309150600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202309141200&end=202309150600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202309150600, HTTP:None, #:0
+Polling API for: 202309160600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202309151200&end=202309160600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202309160600, HTTP:None, #:0
+Polling API for: 202309170600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202309161200&end=202309170600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202309170600, HTTP:None, #:0
+Polling API for: 202309180600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202309171200&end=202309180600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202309180600, HTTP:None, #:0
+Polling API for: 202309190600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202309181200&end=202309190600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202309190600, HTTP:None, #:0
+Polling API for: 202309200600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202309191200&end=202309200600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202309200600, HTTP:None, #:0
+Polling API for: 202309210600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202309201200&end=202309210600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202309210600, HTTP:None, #:0
+Polling API for: 202309220600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202309211200&end=202309220600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202309220600, HTTP:None, #:0
+Polling API for: 202309230600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202309221200&end=202309230600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202309230600, HTTP:None, #:0
+Polling API for: 202309240600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202309231200&end=202309240600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202309240600, HTTP:None, #:0
+Polling API for: 202309250600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202309241200&end=202309250600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202309250600, HTTP:None, #:0
+Polling API for: 202309260600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202309251200&end=202309260600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202309260600, HTTP:None, #:0
+Polling API for: 202309270600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202309261200&end=202309270600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202309270600, HTTP:None, #:0
+Polling API for: 202309280600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202309271200&end=202309280600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202309280600, HTTP:None, #:0
+Polling API for: 202309290600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202309281200&end=202309290600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202309290600, HTTP:None, #:0
+Polling API for: 202309300600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202309291200&end=202309300600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202309300600, HTTP:None, #:0
+Polling API for: 202310010600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202309301200&end=202310010600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202310010600, HTTP:None, #:0
+Polling API for: 202310020600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202310011200&end=202310020600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202310020600, HTTP:None, #:0
+Polling API for: 202310030600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202310021200&end=202310030600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202310030600, HTTP:None, #:0
+Polling API for: 202310040600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202310031200&end=202310040600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202310040600, HTTP:None, #:0
+Polling API for: 202310050600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202310041200&end=202310050600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202310050600, HTTP:None, #:0
+Polling API for: 202310060600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202310051200&end=202310060600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202310060600, HTTP:None, #:0
+Polling API for: 202310070600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202310061200&end=202310070600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202310070600, HTTP:None, #:0
+Polling API for: 202310080600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202310071200&end=202310080600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202310080600, HTTP:None, #:0
+Polling API for: 202310090600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202310081200&end=202310090600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202310090600, HTTP:None, #:0
+Polling API for: 202310100600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202310091200&end=202310100600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202310100600, HTTP:None, #:0
+Polling API for: 202310110600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202310101200&end=202310110600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202310110600, HTTP:None, #:0
+Polling API for: 202310120600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202310111200&end=202310120600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202310120600, HTTP:None, #:0
+Polling API for: 202310130600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202310121200&end=202310130600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202310130600, HTTP:None, #:0
+Polling API for: 202310140600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202310131200&end=202310140600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202310140600, HTTP:None, #:0
+Polling API for: 202310150600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202310141200&end=202310150600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202310150600, HTTP:None, #:0
+Polling API for: 202310160600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202310151200&end=202310160600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202310160600, HTTP:None, #:0
+Polling API for: 202310170600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202310161200&end=202310170600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202310170600, HTTP:None, #:0
+Polling API for: 202310180600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202310171200&end=202310180600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202310180600, HTTP:None, #:0
+Polling API for: 202310190600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202310181200&end=202310190600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202310190600, HTTP:None, #:0
+Polling API for: 202310200600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202310191200&end=202310200600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202310200600, HTTP:None, #:0
+Polling API for: 202310210600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202310201200&end=202310210600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202310210600, HTTP:None, #:0
+Polling API for: 202310220600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202310211200&end=202310220600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202310220600, HTTP:None, #:0
+Polling API for: 202310230600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202310221200&end=202310230600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202310230600, HTTP:None, #:0
+Polling API for: 202310240600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202310231200&end=202310240600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202310240600, HTTP:None, #:0
+Polling API for: 202310250600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202310241200&end=202310250600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202310250600, HTTP:None, #:0
+Polling API for: 202310260600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202310251200&end=202310260600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202310260600, HTTP:None, #:0
+Polling API for: 202310270600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202310261200&end=202310270600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202310270600, HTTP:None, #:0
+Polling API for: 202310280600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202310271200&end=202310280600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202310280600, HTTP:None, #:0
+Polling API for: 202310290600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202310281200&end=202310290600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202310290600, HTTP:None, #:0
+Polling API for: 202310300600
+https://api.synopticlabs.org/v2/stations/statistics?&token=ecd8cc8856884bcc8f02f374f8eb87fc&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2&start=202310291200&end=202310300600&vars=air_temp&type=maximum&obtimezone=utc&units=temp|f&complete=True
+202310300600, HTTP:None, #:0

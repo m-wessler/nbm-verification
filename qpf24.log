@@ -1,0 +1,819 @@
+Process Pool Size: 20
+Polling API for: 202301180000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202301170000&end=202301180000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202301180000, HTTP:None, #:0
+Polling API for: 202301181200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202301171200&end=202301181200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202301181200, HTTP:None, #:0
+Polling API for: 202301190000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202301180000&end=202301190000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202301190000, HTTP:None, #:0
+Polling API for: 202301191200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202301181200&end=202301191200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202301191200, HTTP:None, #:0
+Polling API for: 202301200000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202301190000&end=202301200000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202301200000, HTTP:None, #:0
+Polling API for: 202301201200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202301191200&end=202301201200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202301201200, HTTP:None, #:0
+Polling API for: 202301210000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202301200000&end=202301210000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202301210000, HTTP:None, #:0
+Polling API for: 202301211200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202301201200&end=202301211200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202301211200, HTTP:None, #:0
+Polling API for: 202301220000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202301210000&end=202301220000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202301220000, HTTP:None, #:0
+Polling API for: 202301221200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202301211200&end=202301221200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202301221200, HTTP:None, #:0
+Polling API for: 202301230000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202301220000&end=202301230000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202301230000, HTTP:None, #:0
+Polling API for: 202301231200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202301221200&end=202301231200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202301231200, HTTP:None, #:0
+Polling API for: 202301240000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202301230000&end=202301240000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202301240000, HTTP:None, #:0
+Polling API for: 202301241200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202301231200&end=202301241200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202301241200, HTTP:None, #:0
+Polling API for: 202301250000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202301240000&end=202301250000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202301250000, HTTP:None, #:0
+Polling API for: 202301251200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202301241200&end=202301251200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202301251200, HTTP:None, #:0
+Polling API for: 202301260000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202301250000&end=202301260000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202301260000, HTTP:None, #:0
+Polling API for: 202301261200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202301251200&end=202301261200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202301261200, HTTP:None, #:0
+Polling API for: 202301270000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202301260000&end=202301270000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202301270000, HTTP:None, #:0
+Polling API for: 202301271200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202301261200&end=202301271200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202301271200, HTTP:None, #:0
+Polling API for: 202301280000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202301270000&end=202301280000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202301280000, HTTP:None, #:0
+Polling API for: 202301281200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202301271200&end=202301281200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202301281200, HTTP:None, #:0
+Polling API for: 202301290000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202301280000&end=202301290000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202301290000, HTTP:None, #:0
+Polling API for: 202301291200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202301281200&end=202301291200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202301291200, HTTP:None, #:0
+Polling API for: 202301300000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202301290000&end=202301300000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202301300000, HTTP:None, #:0
+Polling API for: 202301301200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202301291200&end=202301301200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202301301200, HTTP:None, #:0
+Polling API for: 202301310000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202301300000&end=202301310000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202301310000, HTTP:None, #:0
+Polling API for: 202301311200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202301301200&end=202301311200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202301311200, HTTP:None, #:0
+Polling API for: 202302010000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202301310000&end=202302010000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202302010000, HTTP:None, #:0
+Polling API for: 202302011200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202301311200&end=202302011200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202302011200, HTTP:None, #:0
+Polling API for: 202302020000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202302010000&end=202302020000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202302020000, HTTP:None, #:0
+Polling API for: 202302021200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202302011200&end=202302021200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202302021200, HTTP:None, #:0
+Polling API for: 202302030000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202302020000&end=202302030000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202302030000, HTTP:None, #:0
+Polling API for: 202302031200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202302021200&end=202302031200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202302031200, HTTP:None, #:0
+Polling API for: 202302040000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202302030000&end=202302040000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202302040000, HTTP:None, #:0
+Polling API for: 202302041200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202302031200&end=202302041200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202302041200, HTTP:None, #:0
+Polling API for: 202302050000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202302040000&end=202302050000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202302050000, HTTP:None, #:0
+Polling API for: 202302051200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202302041200&end=202302051200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202302051200, HTTP:None, #:0
+Polling API for: 202302060000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202302050000&end=202302060000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202302060000, HTTP:None, #:0
+Polling API for: 202302061200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202302051200&end=202302061200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202302061200, HTTP:None, #:0
+Polling API for: 202302070000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202302060000&end=202302070000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202302070000, HTTP:None, #:0
+Polling API for: 202302071200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202302061200&end=202302071200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202302071200, HTTP:None, #:0
+Polling API for: 202302080000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202302070000&end=202302080000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202302080000, HTTP:None, #:0
+Polling API for: 202302081200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202302071200&end=202302081200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202302081200, HTTP:None, #:0
+Polling API for: 202302090000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202302080000&end=202302090000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202302090000, HTTP:None, #:0
+Polling API for: 202302091200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202302081200&end=202302091200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202302091200, HTTP:None, #:0
+Polling API for: 202302100000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202302090000&end=202302100000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202302100000, HTTP:None, #:0
+Polling API for: 202302101200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202302091200&end=202302101200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202302101200, HTTP:None, #:0
+Polling API for: 202302110000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202302100000&end=202302110000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202302110000, HTTP:None, #:0
+Polling API for: 202302111200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202302101200&end=202302111200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202302111200, HTTP:None, #:0
+Polling API for: 202302120000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202302110000&end=202302120000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202302120000, HTTP:None, #:0
+Polling API for: 202302121200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202302111200&end=202302121200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202302121200, HTTP:None, #:0
+Polling API for: 202302130000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202302120000&end=202302130000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202302130000, HTTP:None, #:0
+Polling API for: 202302131200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202302121200&end=202302131200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202302131200, HTTP:None, #:0
+Polling API for: 202302140000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202302130000&end=202302140000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202302140000, HTTP:None, #:0
+Polling API for: 202302141200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202302131200&end=202302141200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202302141200, HTTP:None, #:0
+Polling API for: 202302150000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202302140000&end=202302150000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202302150000, HTTP:None, #:0
+Polling API for: 202302151200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202302141200&end=202302151200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202302151200, HTTP:None, #:0
+Polling API for: 202302160000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202302150000&end=202302160000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202302160000, HTTP:None, #:0
+Polling API for: 202302161200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202302151200&end=202302161200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202302161200, HTTP:None, #:0
+Polling API for: 202302170000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202302160000&end=202302170000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202302170000, HTTP:None, #:0
+Polling API for: 202302171200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202302161200&end=202302171200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202302171200, HTTP:None, #:0
+Polling API for: 202302180000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202302170000&end=202302180000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202302180000, HTTP:None, #:0
+Polling API for: 202302181200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202302171200&end=202302181200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202302181200, HTTP:None, #:0
+Polling API for: 202302190000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202302180000&end=202302190000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202302190000, HTTP:None, #:0
+Polling API for: 202302191200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202302181200&end=202302191200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202302191200, HTTP:None, #:0
+Polling API for: 202302200000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202302190000&end=202302200000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202302200000, HTTP:None, #:0
+Polling API for: 202302201200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202302191200&end=202302201200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202302201200, HTTP:None, #:0
+Polling API for: 202302210000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202302200000&end=202302210000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202302210000, HTTP:None, #:0
+Polling API for: 202302211200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202302201200&end=202302211200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202302211200, HTTP:None, #:0
+Polling API for: 202302220000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202302210000&end=202302220000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202302220000, HTTP:None, #:0
+Polling API for: 202302221200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202302211200&end=202302221200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202302221200, HTTP:None, #:0
+Polling API for: 202302230000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202302220000&end=202302230000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202302230000, HTTP:None, #:0
+Polling API for: 202302231200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202302221200&end=202302231200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202302231200, HTTP:None, #:0
+Polling API for: 202302240000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202302230000&end=202302240000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202302240000, HTTP:None, #:0
+Polling API for: 202302241200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202302231200&end=202302241200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202302241200, HTTP:None, #:0
+Polling API for: 202302250000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202302240000&end=202302250000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202302250000, HTTP:None, #:0
+Polling API for: 202302251200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202302241200&end=202302251200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202302251200, HTTP:None, #:0
+Polling API for: 202302260000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202302250000&end=202302260000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202302260000, HTTP:None, #:0
+Polling API for: 202302261200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202302251200&end=202302261200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202302261200, HTTP:None, #:0
+Polling API for: 202302270000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202302260000&end=202302270000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202302270000, HTTP:None, #:0
+Polling API for: 202302271200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202302261200&end=202302271200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202302271200, HTTP:None, #:0
+Polling API for: 202302280000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202302270000&end=202302280000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202302280000, HTTP:None, #:0
+Polling API for: 202302281200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202302271200&end=202302281200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202302281200, HTTP:None, #:0
+Polling API for: 202303010000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202302280000&end=202303010000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202303010000, HTTP:None, #:0
+Polling API for: 202303011200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202302281200&end=202303011200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202303011200, HTTP:None, #:0
+Polling API for: 202303020000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202303010000&end=202303020000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202303020000, HTTP:None, #:0
+Polling API for: 202303021200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202303011200&end=202303021200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202303021200, HTTP:None, #:0
+Polling API for: 202303030000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202303020000&end=202303030000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202303030000, HTTP:None, #:0
+Polling API for: 202303031200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202303021200&end=202303031200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202303031200, HTTP:None, #:0
+Polling API for: 202303040000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202303030000&end=202303040000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202303040000, HTTP:None, #:0
+Polling API for: 202303041200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202303031200&end=202303041200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202303041200, HTTP:None, #:0
+Polling API for: 202303050000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202303040000&end=202303050000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202303050000, HTTP:None, #:0
+Polling API for: 202303051200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202303041200&end=202303051200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202303051200, HTTP:None, #:0
+Polling API for: 202303060000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202303050000&end=202303060000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202303060000, HTTP:None, #:0
+Polling API for: 202303061200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202303051200&end=202303061200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202303061200, HTTP:None, #:0
+Polling API for: 202303070000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202303060000&end=202303070000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202303070000, HTTP:None, #:0
+Polling API for: 202303071200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202303061200&end=202303071200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202303071200, HTTP:None, #:0
+Polling API for: 202303080000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202303070000&end=202303080000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202303080000, HTTP:None, #:0
+Polling API for: 202303081200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202303071200&end=202303081200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202303081200, HTTP:None, #:0
+Polling API for: 202303090000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202303080000&end=202303090000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202303090000, HTTP:None, #:0
+Polling API for: 202303091200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202303081200&end=202303091200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202303091200, HTTP:None, #:0
+Polling API for: 202303100000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202303090000&end=202303100000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202303100000, HTTP:None, #:0
+Polling API for: 202303101200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202303091200&end=202303101200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202303101200, HTTP:None, #:0
+Polling API for: 202303110000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202303100000&end=202303110000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202303110000, HTTP:None, #:0
+Polling API for: 202303111200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202303101200&end=202303111200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202303111200, HTTP:None, #:0
+Polling API for: 202303120000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202303110000&end=202303120000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202303120000, HTTP:None, #:0
+Polling API for: 202303121200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202303111200&end=202303121200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202303121200, HTTP:None, #:0
+Polling API for: 202303130000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202303120000&end=202303130000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202303130000, HTTP:None, #:0
+Polling API for: 202303131200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202303121200&end=202303131200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202303131200, HTTP:None, #:0
+Polling API for: 202303140000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202303130000&end=202303140000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202303140000, HTTP:None, #:0
+Polling API for: 202303141200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202303131200&end=202303141200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202303141200, HTTP:None, #:0
+Polling API for: 202303150000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202303140000&end=202303150000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202303150000, HTTP:None, #:0
+Polling API for: 202303151200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202303141200&end=202303151200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202303151200, HTTP:None, #:0
+Polling API for: 202303160000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202303150000&end=202303160000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202303160000, HTTP:None, #:0
+Polling API for: 202303161200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202303151200&end=202303161200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202303161200, HTTP:None, #:0
+Polling API for: 202303170000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202303160000&end=202303170000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202303170000, HTTP:None, #:0
+Polling API for: 202303171200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202303161200&end=202303171200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202303171200, HTTP:None, #:0
+Polling API for: 202303180000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202303170000&end=202303180000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202303180000, HTTP:None, #:0
+Polling API for: 202303181200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202303171200&end=202303181200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202303181200, HTTP:None, #:0
+Polling API for: 202303190000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202303180000&end=202303190000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202303190000, HTTP:None, #:0
+Polling API for: 202303191200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202303181200&end=202303191200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202303191200, HTTP:None, #:0
+Polling API for: 202303200000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202303190000&end=202303200000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202303200000, HTTP:None, #:0
+Polling API for: 202303201200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202303191200&end=202303201200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202303201200, HTTP:None, #:0
+Polling API for: 202303210000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202303200000&end=202303210000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202303210000, HTTP:None, #:0
+Polling API for: 202303211200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202303201200&end=202303211200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202303211200, HTTP:None, #:0
+Polling API for: 202303220000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202303210000&end=202303220000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202303220000, HTTP:None, #:0
+Polling API for: 202303221200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202303211200&end=202303221200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202303221200, HTTP:None, #:0
+Polling API for: 202303230000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202303220000&end=202303230000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202303230000, HTTP:None, #:0
+Polling API for: 202303231200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202303221200&end=202303231200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202303231200, HTTP:None, #:0
+Polling API for: 202303240000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202303230000&end=202303240000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202303240000, HTTP:None, #:0
+Polling API for: 202303241200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202303231200&end=202303241200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202303241200, HTTP:None, #:0
+Polling API for: 202303250000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202303240000&end=202303250000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202303250000, HTTP:None, #:0
+Polling API for: 202303251200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202303241200&end=202303251200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202303251200, HTTP:None, #:0
+Polling API for: 202303260000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202303250000&end=202303260000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202303260000, HTTP:None, #:0
+Polling API for: 202303261200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202303251200&end=202303261200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202303261200, HTTP:None, #:0
+Polling API for: 202303270000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202303260000&end=202303270000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202303270000, HTTP:None, #:0
+Polling API for: 202303271200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202303261200&end=202303271200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202303271200, HTTP:None, #:0
+Polling API for: 202303280000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202303270000&end=202303280000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202303280000, HTTP:None, #:0
+Polling API for: 202303281200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202303271200&end=202303281200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202303281200, HTTP:None, #:0
+Polling API for: 202303290000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202303280000&end=202303290000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202303290000, HTTP:None, #:0
+Polling API for: 202303291200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202303281200&end=202303291200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202303291200, HTTP:None, #:0
+Polling API for: 202303300000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202303290000&end=202303300000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202303300000, HTTP:None, #:0
+Polling API for: 202303301200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202303291200&end=202303301200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202303301200, HTTP:None, #:0
+Polling API for: 202303310000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202303300000&end=202303310000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202303310000, HTTP:None, #:0
+Polling API for: 202303311200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202303301200&end=202303311200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202303311200, HTTP:None, #:0
+Polling API for: 202304010000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202303310000&end=202304010000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202304010000, HTTP:None, #:0
+Polling API for: 202304011200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202303311200&end=202304011200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202304011200, HTTP:None, #:0
+Polling API for: 202304020000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202304010000&end=202304020000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202304020000, HTTP:None, #:0
+Polling API for: 202304021200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202304011200&end=202304021200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202304021200, HTTP:None, #:0
+Polling API for: 202304030000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202304020000&end=202304030000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202304030000, HTTP:None, #:0
+Polling API for: 202304031200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202304021200&end=202304031200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202304031200, HTTP:None, #:0
+Polling API for: 202304040000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202304030000&end=202304040000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202304040000, HTTP:None, #:0
+Polling API for: 202304041200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202304031200&end=202304041200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202304041200, HTTP:None, #:0
+Polling API for: 202304050000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202304040000&end=202304050000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202304050000, HTTP:None, #:0
+Polling API for: 202304051200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202304041200&end=202304051200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202304051200, HTTP:None, #:0
+Polling API for: 202304060000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202304050000&end=202304060000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202304060000, HTTP:None, #:0
+Polling API for: 202304061200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202304051200&end=202304061200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202304061200, HTTP:None, #:0
+Polling API for: 202304070000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202304060000&end=202304070000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202304070000, HTTP:None, #:0
+Polling API for: 202304071200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202304061200&end=202304071200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202304071200, HTTP:None, #:0
+Polling API for: 202304080000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202304070000&end=202304080000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202304080000, HTTP:None, #:0
+Polling API for: 202304081200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202304071200&end=202304081200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202304081200, HTTP:None, #:0
+Polling API for: 202304090000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202304080000&end=202304090000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202304090000, HTTP:None, #:0
+Polling API for: 202304091200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202304081200&end=202304091200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202304091200, HTTP:None, #:0
+Polling API for: 202304100000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202304090000&end=202304100000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202304100000, HTTP:None, #:0
+Polling API for: 202304101200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202304091200&end=202304101200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202304101200, HTTP:None, #:0
+Polling API for: 202304110000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202304100000&end=202304110000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202304110000, HTTP:None, #:0
+Polling API for: 202304111200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202304101200&end=202304111200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202304111200, HTTP:None, #:0
+Polling API for: 202304120000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202304110000&end=202304120000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202304120000, HTTP:None, #:0
+Polling API for: 202304121200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202304111200&end=202304121200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202304121200, HTTP:None, #:0
+Polling API for: 202304130000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202304120000&end=202304130000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202304130000, HTTP:None, #:0
+Polling API for: 202304131200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202304121200&end=202304131200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202304131200, HTTP:None, #:0
+Polling API for: 202304140000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202304130000&end=202304140000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202304140000, HTTP:None, #:0
+Polling API for: 202304141200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202304131200&end=202304141200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202304141200, HTTP:None, #:0
+Polling API for: 202304150000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202304140000&end=202304150000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202304150000, HTTP:None, #:0
+Polling API for: 202304151200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202304141200&end=202304151200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202304151200, HTTP:None, #:0
+Polling API for: 202304160000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202304150000&end=202304160000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202304160000, HTTP:None, #:0
+Polling API for: 202304161200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202304151200&end=202304161200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202304161200, HTTP:None, #:0
+Polling API for: 202304170000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202304160000&end=202304170000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202304170000, HTTP:None, #:0
+Polling API for: 202304171200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202304161200&end=202304171200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202304171200, HTTP:None, #:0
+Polling API for: 202304180000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202304170000&end=202304180000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202304180000, HTTP:None, #:0
+Polling API for: 202304181200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202304171200&end=202304181200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202304181200, HTTP:None, #:0
+Polling API for: 202304190000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202304180000&end=202304190000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202304190000, HTTP:None, #:0
+Polling API for: 202304191200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202304181200&end=202304191200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202304191200, HTTP:None, #:0
+Polling API for: 202304200000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202304190000&end=202304200000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202304200000, HTTP:None, #:0
+Polling API for: 202304201200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202304191200&end=202304201200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202304201200, HTTP:None, #:0
+Polling API for: 202304210000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202304200000&end=202304210000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202304210000, HTTP:None, #:0
+Polling API for: 202304211200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202304201200&end=202304211200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202304211200, HTTP:None, #:0
+Polling API for: 202304220000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202304210000&end=202304220000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202304220000, HTTP:None, #:0
+Polling API for: 202304221200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202304211200&end=202304221200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202304221200, HTTP:None, #:0
+Polling API for: 202304230000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202304220000&end=202304230000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202304230000, HTTP:None, #:0
+Polling API for: 202304231200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202304221200&end=202304231200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202304231200, HTTP:None, #:0
+Polling API for: 202304240000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202304230000&end=202304240000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202304240000, HTTP:None, #:0
+Polling API for: 202304241200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202304231200&end=202304241200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202304241200, HTTP:None, #:0
+Polling API for: 202304250000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202304240000&end=202304250000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202304250000, HTTP:None, #:0
+Polling API for: 202304251200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202304241200&end=202304251200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202304251200, HTTP:None, #:0
+Polling API for: 202304260000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202304250000&end=202304260000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202304260000, HTTP:None, #:0
+Polling API for: 202304261200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202304251200&end=202304261200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202304261200, HTTP:None, #:0
+Polling API for: 202304270000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202304260000&end=202304270000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202304270000, HTTP:None, #:0
+Polling API for: 202304271200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202304261200&end=202304271200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202304271200, HTTP:None, #:0
+Polling API for: 202304280000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202304270000&end=202304280000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202304280000, HTTP:None, #:0
+Polling API for: 202304281200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202304271200&end=202304281200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202304281200, HTTP:None, #:0
+Polling API for: 202304290000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202304280000&end=202304290000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202304290000, HTTP:None, #:0
+Polling API for: 202304291200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202304281200&end=202304291200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202304291200, HTTP:None, #:0
+Polling API for: 202304300000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202304290000&end=202304300000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202304300000, HTTP:None, #:0
+Polling API for: 202304301200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202304291200&end=202304301200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202304301200, HTTP:None, #:0
+Polling API for: 202305010000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202304300000&end=202305010000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202305010000, HTTP:None, #:0
+Polling API for: 202305011200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202304301200&end=202305011200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202305011200, HTTP:None, #:0
+Polling API for: 202305020000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202305010000&end=202305020000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202305020000, HTTP:None, #:0
+Polling API for: 202305021200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202305011200&end=202305021200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202305021200, HTTP:None, #:0
+Polling API for: 202305030000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202305020000&end=202305030000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202305030000, HTTP:None, #:0
+Polling API for: 202305031200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202305021200&end=202305031200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202305031200, HTTP:None, #:0
+Polling API for: 202305040000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202305030000&end=202305040000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202305040000, HTTP:None, #:0
+Polling API for: 202305041200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202305031200&end=202305041200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202305041200, HTTP:None, #:0
+Polling API for: 202305050000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202305040000&end=202305050000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202305050000, HTTP:None, #:0
+Polling API for: 202305051200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202305041200&end=202305051200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202305051200, HTTP:None, #:0
+Polling API for: 202305060000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202305050000&end=202305060000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202305060000, HTTP:None, #:0
+Polling API for: 202305061200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202305051200&end=202305061200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202305061200, HTTP:None, #:0
+Polling API for: 202305070000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202305060000&end=202305070000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202305070000, HTTP:None, #:0
+Polling API for: 202305071200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202305061200&end=202305071200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202305071200, HTTP:None, #:0
+Polling API for: 202305080000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202305070000&end=202305080000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202305080000, HTTP:None, #:0
+Polling API for: 202305081200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202305071200&end=202305081200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202305081200, HTTP:None, #:0
+Polling API for: 202305090000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202305080000&end=202305090000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202305090000, HTTP:None, #:0
+Polling API for: 202305091200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202305081200&end=202305091200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202305091200, HTTP:None, #:0
+Polling API for: 202305100000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202305090000&end=202305100000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202305100000, HTTP:None, #:0
+Polling API for: 202305101200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202305091200&end=202305101200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202305101200, HTTP:None, #:0
+Polling API for: 202305110000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202305100000&end=202305110000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202305110000, HTTP:None, #:0
+Polling API for: 202305111200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202305101200&end=202305111200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202305111200, HTTP:None, #:0
+Polling API for: 202305120000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202305110000&end=202305120000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202305120000, HTTP:None, #:0
+Polling API for: 202305121200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202305111200&end=202305121200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202305121200, HTTP:None, #:0
+Polling API for: 202305130000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202305120000&end=202305130000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202305130000, HTTP:None, #:0
+Polling API for: 202305131200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202305121200&end=202305131200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202305131200, HTTP:None, #:0
+Polling API for: 202305140000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202305130000&end=202305140000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202305140000, HTTP:None, #:0
+Polling API for: 202305141200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202305131200&end=202305141200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202305141200, HTTP:None, #:0
+Polling API for: 202305150000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202305140000&end=202305150000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202305150000, HTTP:None, #:0
+Polling API for: 202305151200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202305141200&end=202305151200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202305151200, HTTP:None, #:0
+Polling API for: 202305160000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202305150000&end=202305160000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202305160000, HTTP:None, #:0
+Polling API for: 202305161200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202305151200&end=202305161200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202305161200, HTTP:None, #:0
+Polling API for: 202305170000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202305160000&end=202305170000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202305170000, HTTP:None, #:0
+Polling API for: 202305171200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202305161200&end=202305171200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202305171200, HTTP:None, #:0
+Polling API for: 202305180000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202305170000&end=202305180000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202305180000, HTTP:None, #:0
+Polling API for: 202305181200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202305171200&end=202305181200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202305181200, HTTP:None, #:0
+Polling API for: 202305190000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202305180000&end=202305190000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202305190000, HTTP:None, #:0
+Polling API for: 202305191200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202305181200&end=202305191200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202305191200, HTTP:None, #:0
+Polling API for: 202305200000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202305190000&end=202305200000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202305200000, HTTP:None, #:0
+Polling API for: 202305201200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202305191200&end=202305201200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202305201200, HTTP:None, #:0
+Polling API for: 202305210000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202305200000&end=202305210000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202305210000, HTTP:None, #:0
+Polling API for: 202305211200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202305201200&end=202305211200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202305211200, HTTP:None, #:0
+Polling API for: 202305220000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202305210000&end=202305220000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202305220000, HTTP:None, #:0
+Polling API for: 202305221200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202305211200&end=202305221200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202305221200, HTTP:None, #:0
+Polling API for: 202305230000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202305220000&end=202305230000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202305230000, HTTP:None, #:0
+Polling API for: 202305231200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202305221200&end=202305231200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202305231200, HTTP:None, #:0
+Polling API for: 202305240000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202305230000&end=202305240000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202305240000, HTTP:None, #:0
+Polling API for: 202305241200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202305231200&end=202305241200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202305241200, HTTP:None, #:0
+Polling API for: 202305250000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202305240000&end=202305250000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202305250000, HTTP:None, #:0
+Polling API for: 202305251200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202305241200&end=202305251200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202305251200, HTTP:None, #:0
+Polling API for: 202305260000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202305250000&end=202305260000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202305260000, HTTP:None, #:0
+Polling API for: 202305261200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202305251200&end=202305261200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202305261200, HTTP:None, #:0
+Polling API for: 202305270000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202305260000&end=202305270000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202305270000, HTTP:None, #:0
+Polling API for: 202305271200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202305261200&end=202305271200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202305271200, HTTP:None, #:0
+Polling API for: 202305280000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202305270000&end=202305280000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202305280000, HTTP:None, #:0
+Polling API for: 202305281200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202305271200&end=202305281200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202305281200, HTTP:None, #:0
+Polling API for: 202305290000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202305280000&end=202305290000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202305290000, HTTP:None, #:0
+Polling API for: 202305291200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202305281200&end=202305291200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202305291200, HTTP:None, #:0
+Polling API for: 202305300000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202305290000&end=202305300000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202305300000, HTTP:None, #:0
+Polling API for: 202305301200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202305291200&end=202305301200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202305301200, HTTP:None, #:0
+Polling API for: 202305310000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202305300000&end=202305310000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202305310000, HTTP:None, #:0
+Polling API for: 202305311200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202305301200&end=202305311200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202305311200, HTTP:None, #:0
+Polling API for: 202306010000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202305310000&end=202306010000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202306010000, HTTP:None, #:0
+Polling API for: 202306011200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202305311200&end=202306011200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202306011200, HTTP:None, #:0
+Polling API for: 202306020000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202306010000&end=202306020000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202306020000, HTTP:None, #:0
+Polling API for: 202306021200
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202306011200&end=202306021200&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
+202306021200, HTTP:None, #:0
+Polling API for: 202306030000
+https://api.synopticdata.com/v2/stations/precipitation?&token=a2386b75ecbc4c2784db1270695dde73&cwa=BYZ,BOI,LKN,EKA,FGZ,GGW,TFX,VEF,LOX,MFR,MSO,PDT,PSR,PIH,PQR,REV,STO,SLC,SGX,MTR,HNX,SEW,OTX,TWC&network=1,2,106&start=202306020000&end=202306030000&pmode=intervals&interval=24&type=interval&obtimezone=utc&units=temp|f&complete=True
