@@ -393,8 +393,13 @@ def fetch_NBMgrib_from_AWS(iter_item, save_dir='nbm_grib2/', **req):
 
             index_file = f'{grib_file}.idx'
 
-            index_data_raw = client.get_object(
-                Bucket=aws_bucket_nbm, Key=index_file)['Body'].read().decode().split('\n')
+            try:
+                index_data_raw = client.get_object(
+                    Bucket=aws_bucket_nbm, Key=index_file)['Body'].read().decode().split('\n')
+
+            except:
+                client.close()
+                return
 
             cols = ['num', 'byte', 'date', 'var', 'level',
                 'forecast', 'fthresh', 'ftype', '']
@@ -610,7 +615,7 @@ if __name__ == "__main__":
     # Need to filter by variable/region in case of region change or re-run!
     synoptic_varname = synoptic_vars_out[element]
 
-    csv_element = element if element != 'qpf' else 'qpe'
+    csv_element = element if element != 'qpf' else f'qpe{interval_selection:02d}'
 
     searchstring = (f'*{csv_element}*{region_selection}*.csv'
         if region_selection != 'CWA' else f'*{csv_element}*{cwa_selection}*.csv')
@@ -639,29 +644,40 @@ if __name__ == "__main__":
         # # Rename the variable since we've changed the column name
         print('Un-nesting precipitation observations')
 
-        qpf_df = []
-        for row in df.iterrows():
-            row = row[1]
+        # qpf_df = []
+        # for row in df.iterrows():
+        #     row = row[1]
 
-            _qpf_df = pd.DataFrame(eval(row[synoptic_varname]))
+        #     _qpf_df = pd.DataFrame(eval(row[synoptic_varname]))
 
-            if 'CWA' in df.columns:
-                _qpf_df.insert(0, 'STATE', row['STATE'])
-                _qpf_df.insert(0, 'CWA', row['CWA'])
+        #     if 'CWA' in df.columns:
+        #         _qpf_df.insert(0, 'STATE', row['STATE'])
+        #         _qpf_df.insert(0, 'CWA', row['CWA'])
 
-            _qpf_df.insert(0, 'ELEVATION', row['ELEVATION'])
-            _qpf_df.insert(0, 'LONGITUDE', row['LONGITUDE'])
-            _qpf_df.insert(0, 'LATITUDE', row['LATITUDE'])
-            _qpf_df.insert(0, 'STID', row['STID'])
+        #     _qpf_df.insert(0, 'ELEVATION', row['ELEVATION'])
+        #     _qpf_df.insert(0, 'LONGITUDE', row['LONGITUDE'])
+        #     _qpf_df.insert(0, 'LATITUDE', row['LATITUDE'])
+        #     _qpf_df.insert(0, 'STID', row['STID'])
 
-            qpf_df.append(_qpf_df)
+        #     qpf_df.append(_qpf_df)
 
         # Rename the variable since we've changed the column name
-        synoptic_varname = 'total'
+        # synoptic_varname = 'total'
 
-        print('Concatenating DataFrame')
-        df = pd.concat(qpf_df).reset_index()
-        df['last_report'] = pd.to_datetime(df['last_report']).round('6H')
+        # print('Concatenating DataFrame')
+        # df = pd.concat(qpf_df).reset_index()
+        # df['last_report'] = pd.to_datetime(df['last_report']).round('6H')
+
+        # df['total'] = df[synoptic_varname].apply(lambda x: 
+        #     json.loads(
+        #         x[1:-1].replace("'",'"'))['total']
+        # ).astype(float)
+
+        df['last_report'] = pd.to_datetime(df[synoptic_varname].apply(
+                lambda x: json.loads(x[1:-1].replace("'",'"'))['last_report'])
+            ).dt.round('6H')
+        
+        synoptic_varname = 'TOTAL'
 
     # Identify the timestamp column (changes with variable)
     for k in df.keys():
@@ -838,9 +854,16 @@ if __name__ == "__main__":
 
                 df_indexed.set_index('STID', inplace=True)
 
-                df = df.join(
-                    df_indexed[['grib_index', 'grib_lat', 'grib_lon']]).sort_index()
+                # Testing QC for non-unique indicies
+                df = df.reset_index().drop_duplicates(
+                        subset=['timestamp', 'STID'], keep='first'
+                    ).set_index(['timestamp', 'STID'])
 
+                df = df.reset_index('timestamp').join(
+                        df_indexed[['grib_index', 'grib_lat', 'grib_lon']]
+                    ).reset_index().set_index(
+                        ['timestamp', 'STID']).sort_index()
+                
             # Extract the data for that date and re-insert into DataFrame
             # Loop over each variable in the NBM file and store to DataFrame
             # May need a placeholder column of NaNs in df for each var to make this work...
@@ -876,7 +899,7 @@ if __name__ == "__main__":
 
                     df.loc[valid_date, name] = df.loc[valid_date]['grib_index'].apply(
                         extract_nbm_value_mapped).values
-
+                    
                 elif 'temperature at 2 metres' in str(msg): # OR precipitation clause
                     name = 'FXMAXT' if element == 'maxt' else 'FXMINT'
                     if name not in df.columns:
@@ -954,6 +977,11 @@ if __name__ == "__main__":
 
         # print()
 
+    # QC Checks
+    if element == 'qpf':
+        # Constrain potentially spurious obs... probably better ways but works
+        df.loc[df['OBS'] > df['QPE_URMA'], 'OBS'] = np.nan
+
     # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
     # GENERATE FIGURES AND TABLES                                                 #
     # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
@@ -989,6 +1017,8 @@ if __name__ == "__main__":
         thresh_text = k
         thresh = float(k.split('_')[-1].replace('p', '.').replace('m', '-'))
         thresh = thresh*25.4 if element == 'qpf' else thresh
+
+        print(thresh)
 
         if 'ge' in thresh_text:
             y_test_ob = np.where(df['OBS'] >=  thresh, 1, 0) #ge vs gt
