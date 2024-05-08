@@ -50,7 +50,7 @@ region_selection = sys.argv[6].upper()# str
 cwa_selection = sys.argv[7].upper()# str
 user_token = sys.argv[8].lower() #str
 
-network_selection = 'NWS+RAWS+HADS' if 'qpf' in element.lower() else 'NWS+RAWS'
+network_selection = 'NWS+RAWS' if 'qpf' in element.lower() else 'ALL'#'NWS+RAWS'
 
 # --------------- #
 
@@ -950,7 +950,10 @@ if __name__ == "__main__":
                     if element == 'qpf':
                         # Sum onto the initalized zero array
                         urma = pygrib.open(urma_file)
-                        msg += urma.select(shortName='tp')[0].values
+                        try:
+                            msg += urma.select(shortName='tp')[0].values
+                        except:
+                            pass
 
                     elif element == 'maxt':
                         msg = ((urma.select(shortName='tmax')[0].values - 273.15) * (9/5)) + 32
