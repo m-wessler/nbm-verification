@@ -4,7 +4,7 @@ import sys
 import glob
 import pandas as pd
 import numpy as np
-from datetime import datetime, timedelta
+from datetime import datetime
 from concurrent.futures import ProcessPoolExecutor
 from multiprocessing import cpu_count
 import logging
@@ -13,10 +13,16 @@ import logging
 supported_file_types = ['nbp', 'nbe', 'nbs', 'nbx']
 
 # Hardcoded parent directory of text files
-parent_directory = '/nas/stid/data/nbm/v4p2_text/'
+parent_directory = '/nas/stid/data/nbm/v5p0_text/' #'/data/nbm_text/v4p2_text/'
 
 # Hardcoded output directory
-output_directory = '/nas/stid/projects/michael.wessler/nbm-verification/nbm_csv/'
+output_directory = '/data/nbm_text/csv/'
+
+# Hardcoded logging directory
+logging_directory = '/data/nbm_text/'
+
+# Debugging option
+debug = False  # Toggle between single-threaded (True) and multi-threaded (False) processing
 
 # Ensure the output directory exists
 os.makedirs(output_directory, exist_ok=True)
@@ -40,7 +46,7 @@ else:
 
 # Set up logging configuration
 log_file_name = f"parse_{file_type}_t{init_hours[0] if init_hours else 'all'}z_log.log"
-log_file = os.path.join('./', log_file_name)
+log_file = os.path.join(logging_directory, log_file_name)
 logging.basicConfig(
     filename=log_file,
     level=logging.INFO,
@@ -78,13 +84,13 @@ for input_file in matching_files:
     # Extract the directory name (e.g., '20231118') and input file name
     directory_name = os.path.basename(os.path.dirname(input_file))
     input_file_name = os.path.basename(input_file)
-    
+
     # Extract the hour (e.g., 't01z' -> '01') from the input file name
     hour = input_file_name.split('.')[-2][1:3]  # Extract the hour part (e.g., '01' from 't01z')
 
     output_file_name = f"blend_{file_type}tx_{directory_name}{hour}.csv"
     output_file_path = os.path.join(output_directory, output_file_name)
-    
+
     # Add the file to the processing list if the output file doesn't already exist
     if not os.path.exists(output_file_path):
         files_to_process.append(input_file)
@@ -129,6 +135,7 @@ def process_file_with_logging(input_file_path, total_files, file_index):
             blocks.append(current_block)
 
         # Process metadata from the first row of each block, discarding invalid blocks
+        first = True
         valid_blocks = []
         output_init_time = None  # Will store the init_time for the output filename
         for block in blocks:
@@ -143,11 +150,41 @@ def process_file_with_logging(input_file_path, total_files, file_index):
 
                     # Check if the init_time is in the correct format
                     if re.match(r"^\d{1,2}/\d{1,2}/\d{4} \d{4} UTC$", init_time):
+                        # Convert init_time to datetime
+                        init_time_dt = datetime.strptime(init_time, "%m/%d/%Y %H%M %Z")
+                        directory_date = os.path.basename(os.path.dirname(input_file_path))
+
+                        # Debugging: Print init_time and directory_date
+                        if debug:
+                            print(f"File: {input_file_name}")
+                            print(f"  Parsed init_time: {init_time_dt.strftime('%Y-%m-%d %H:%M:%S')} (from metadata)")
+                            print(f"  Directory date: {directory_date} (from folder structure)")
+
+                        # Check if init_time matches the directory date
+                        if init_time_dt.strftime('%Y%m%d') != directory_date:
+                            if debug:
+                                print(f"  Skipping block: init_time ({init_time_dt.strftime('%Y%m%d')}) "
+                                      f"does not match directory_date ({directory_date}).")
+                            if first: 
+                                first = False  # Only log the first occurrence
+                                logging.warning(f"({file_index}/{total_files}) init_time ({init_time_dt.strftime('%Y%m%d')}) does not match directory date ({directory_date}) for file: {input_file_path}")
+                            continue  # Skip this block
+
                         valid_blocks.append((site_id, init_time, block))  # Store valid blocks
                         if output_init_time is None:
-                            # Format init_time for the output filename (yyyymmddhh)
-                            init_time_dt = datetime.strptime(init_time, "%m/%d/%Y %H%M %Z")
                             output_init_time = init_time_dt.strftime("%Y%m%d%H")
+                    else:
+                        if debug:
+                            print(f"  Skipping block: Invalid init_time format in metadata: {init_time}")
+                        logging.warning(f"Invalid init_time format in metadata: {init_time} for file: {input_file_name}")
+                        continue
+
+        # Skip the file if no valid blocks were found
+        if not valid_blocks:
+            logging.warning(f"No valid blocks found in file: {input_file_name}")
+            if debug:
+                print(f"No valid blocks found in {input_file_name}. File skipped.")
+            return
 
         # Prepare the DataFrame
         all_dataframes = []
@@ -166,6 +203,7 @@ def process_file_with_logging(input_file_path, total_files, file_index):
             # Define bad data codes
             bad_data_codes = ["-459", "-99"]
 
+            # Parsing logic for each file type
             if file_type == 'nbp':
                 for row in data_rows:
                     variable_name = row[1:6].strip()
@@ -228,7 +266,8 @@ def process_file_with_logging(input_file_path, total_files, file_index):
         df.set_index(["init_time", "site_id"], inplace=True)
 
         # Generate the output filename
-        output_file_name = f"blend_{file_type}tx_{directory_name}{hour}.csv"
+        directory_date = os.path.basename(os.path.dirname(input_file_path))
+        output_file_name = f"blend_{file_type}tx_{directory_date}{hour}.csv"
         output_file_path = os.path.join(output_directory, output_file_name)
 
         # Save the DataFrame to a CSV file
@@ -237,16 +276,23 @@ def process_file_with_logging(input_file_path, total_files, file_index):
         logging.info(f"({file_index}/{total_files}) File saved: {output_file_name}")
     except Exception as e:
         logging.error(f"Error processing file {input_file_path}: {e}")
+        logging.error(f"Error processing file {input_file_path}: {e}")
 
-# Use ProcessPoolExecutor with logging
-num_workers = cpu_count() * 2
-with ProcessPoolExecutor(max_workers=num_workers) as executor:
-    futures = {
-        executor.submit(process_file_with_logging, file, len(files_to_process), idx + 1): file
-        for idx, file in enumerate(files_to_process)
-    }
-
-    for future in futures:
-        future.result()
+if debug:
+    # Single-threaded processing for debugging
+    logging.info("Debug mode enabled: Processing files in single-threaded mode.")
+    for idx, file in enumerate(files_to_process):
+        process_file_with_logging(file, len(files_to_process), idx + 1)
+else:
+    # Multi-threaded processing
+    num_workers = cpu_count() * 1
+    logging.info(f"Processing files in multi-threaded mode with {num_workers} workers.")
+    with ProcessPoolExecutor(max_workers=num_workers) as executor:
+        futures = {
+            executor.submit(process_file_with_logging, file, len(files_to_process), idx + 1): file
+            for idx, file in enumerate(files_to_process)
+        }
+        for future in futures:
+            future.result()
 
 logging.info("Script completed.")
